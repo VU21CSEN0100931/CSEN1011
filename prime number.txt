@@ -1,0 +1,9 @@
+Flowchart to find whether a number is prime or composite
+1.Start
+2.Accept a positive integer 'n' {number greather than 2}
+3.Initalize 'counter' with a value 2
+4.Divide 'n' with the 'counter'
+5.If the remainder is zero display that 'n' is composite and stop the alogorithm
+6.Else increment the 'counter' and repeat from step 4 untill the 'counter' value is lees than the 'n'
+7.After completion of all the the steps display that a number 'n' is prime 
+8.Stop
