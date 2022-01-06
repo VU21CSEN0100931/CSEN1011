@@ -1,4 +1,38 @@
 # CSEN1011
+
+#MODULE1
+[simple intrest 1.cpp](https://github.com/VU21CSEN0100931/CSEN1011/blob/84058b0da6e41ee646a8caf66c21d44d960bbd96/simple%20intrest%201.cpp)<br />
+[compound-interest.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/02-compound-interest.c)<br />
+[subjects.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/subjects.c)<br />
+[perfectnumber.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/perfectnumber.c)<br />
+[armstrong.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/armstrong.c)<br />
+[net salary.cpp](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/net%20salary.cpp)<br />
+
+
+
+
+
+
+
+
+
+
+#MODULE2
+[triangle.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/pascalstriangle.c)<br />
+[stars.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/stars.c)<br />
+[pascalstriangle.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/pascalstriangle.c)<br />
+[fullpyramidnumbers.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/fullpyramidnumbers.c)<br />
+[reversenumber.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/reversenumber.c)<br />
+[palphabets.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/palphabets.c)<br />
+[fibonaccisequence.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/fibonaccisequence.c)<br />
+[invertedstars.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/invertedstars.c)<br />
+[pnumbers.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/a617c4854ad7d49bbbfbc5260056f3d8dbaa0a5e/pnumbers.c)<br />
+
+
+
+
+
+
 #RAPTOR
 
 [SI,CI.rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/fcb0748b91137dd348366a94f9dbc862fbce4b9e/SI,CI.rap)<br />
