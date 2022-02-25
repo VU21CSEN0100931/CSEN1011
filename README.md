@@ -60,6 +60,4 @@
 [chess board rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/853d2ff9386b36a90fbcf5a5d2c3b4217deb1993/CHESS%20BOARD.rap)<br />
 
 [p&c rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/ee85d66abafca43e42d910ecd205623f08c135c2/permutations.rap)<br />
-[p&c .c](https://github.com/VU21CSEN0100931/CSEN1011/blob/eb9b30088c136fb8392a33835187641edcaa5ffd/p&c.cpp)<br />
 
-[question 3](https://github.com/VU21CSEN0100931/CSEN1011/blob/1b4e6ad2830d0dce26faa7164b85d542b9f6538c/question%203.cpp)<br />
