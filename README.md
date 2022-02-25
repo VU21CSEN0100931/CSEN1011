@@ -46,3 +46,13 @@
 [prime rotation.rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/49654f8568b7124a655c7e6ba78ace35da628cf9/prime%20rotation.rap)<br />
 [salary.rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/49654f8568b7124a655c7e6ba78ace35da628cf9/salary.rap)<br />
 [switch.rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/49654f8568b7124a655c7e6ba78ace35da628cf9/switch.rap)<br />
+
+
+
+
+
+
+
+
+#SEM END EXAM
+https://github.com/VU21CSEN0100931/CSEN1011/blob/592e1d1bae00a2785d4faebc7dbb8121ad1ffb4c/chess%20board.c<br />
