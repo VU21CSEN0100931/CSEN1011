@@ -56,4 +56,6 @@
 
 #SEM END EXAM
 
-[chess board](https://github.com/VU21CSEN0100931/CSEN1011/blob/592e1d1bae00a2785d4faebc7dbb8121ad1ffb4c/chess%20board.c)<br />
+[chess board.c](https://github.com/VU21CSEN0100931/CSEN1011/blob/592e1d1bae00a2785d4faebc7dbb8121ad1ffb4c/chess%20board.c)<br />
+[chess board rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/853d2ff9386b36a90fbcf5a5d2c3b4217deb1993/CHESS%20BOARD.rap)<br />
+
