@@ -61,3 +61,4 @@
 
 [p&c rap](https://github.com/VU21CSEN0100931/CSEN1011/blob/ee85d66abafca43e42d910ecd205623f08c135c2/permutations.rap)<br />
 
+[question 3](https://github.com/VU21CSEN0100931/CSEN1011/blob/1b4e6ad2830d0dce26faa7164b85d542b9f6538c/question%203.cpp)<br />
